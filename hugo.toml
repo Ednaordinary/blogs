@@ -1,0 +1,4 @@
+baseURL = 'https://ednamode.xyz/blogs'
+languageCode = 'en-us'
+title = "Edna's blogs"
+theme = 'edna'

@@ -1,0 +1,16 @@
+body {
+  color: #222;
+  font-family: DMSans;
+  line-height: 1.0;
+  margin: 1rem;
+}
+
+footer {
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+}
+
+a {
+  color: #00e;
+  text-decoration: none;
+}

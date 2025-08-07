@@ -1,0 +1,19 @@
+{{ $image := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) }}
+{{ $alt := .PlainText | safeHTML }}
+{{ $caption := "" }}
+{{ with .Title }}
+  {{ $caption = . | safeHTML }}
+{{ end }}
+
+<figure style="margin-left: calc(5vw + 3vw); margin-right: calc(5vw + 3vw);">
+  <a href="{{ $image.RelPermalink }}">
+    <img
+      src="{{ $image.RelPermalink }}"
+      style="width: calc(100% - 1rem); text-align: center; display: block; border-radius: calc(1vh + 1vw);"
+      alt="{{ if $alt }}{{ $alt }}{{ else if $caption }}{{ $caption | markdownify | plainify }}{{ else }}&nbsp;{{ end }}"
+      >
+  </a>
+  {{ with $caption }}
+    <figcaption style="font-family: DMSans; font-size: calc(0.75vw + 0.75vh + 0.5rem); font-weight: 600; color: #807e8c; text-decoration: none;  transition: font-size 0.25s;"><br>{{ . | markdownify }}</figcaption>
+  {{ end }}
+</figure>
