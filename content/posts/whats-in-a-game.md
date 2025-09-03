@@ -1,5 +1,5 @@
 +++
-title = 'What\'s in a Game'
+title = "What's in a Game"
 date = 2025-09-03T02:22:00-06:00
 draft = false
 summary = "My thoughts on games and people"
