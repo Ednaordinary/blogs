@@ -1,5 +1,5 @@
 # blogs
-Blogs on my website
+Blogs on my website, written for use with hugo
 
 Find the source markdown files in /content/posts
 
