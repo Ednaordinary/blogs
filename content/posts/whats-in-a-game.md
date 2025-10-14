@@ -14,3 +14,5 @@ What I will argue is that this makes everyone a gamer. Whether its gaming the sy
 I believe this is a large piece of what makes us human, our innate desire to find games in everything. We seek out the game of social connection in order to mutually grow each others sense of game, a feeling cemented by assurance. We seek out to employ others in these games, using money as a motivator to fuel our own ability to complete these games. Money in itself becomes a game, sometimes a guessing game.
 
 I feel a lot of these games make no sense, born purely for the love of the game. I will not highlight anything specific, as what is born purely from game becomes subjective, but I think it is okay that these games make no sense. They are what help to live life well, and that's enough. We should help each other participate in these games, and try ourselves to make them worthwhile.
+
+[Questions? Reach out!](mailto:imnotednamode+game@gmail.com)
